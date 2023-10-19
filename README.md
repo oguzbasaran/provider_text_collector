@@ -15,12 +15,12 @@ To get started with the app:
 
 1. Clone the repository:
 
-   git clone https://github.com/oguzbasaran/provider-counter-app.git
+   git clone https://github.com/oguzbasaran/provider_text_collector.git
    
 
 2. Navigate to the cloned directory:
    
-   cd provider-counter-app
+   cd provider_text_collector
    
 
 3. Install the dependencies:
