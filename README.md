@@ -7,7 +7,7 @@ A simple Flutter application that demonstrates the use of the Provider package f
 - Clean and scalable code structure.
 - State management using the Provider package.
 - A simple UI to add and display text entries.
-- Provider.of 
+- Provider.of() 
 
 ## Getting Started
 
